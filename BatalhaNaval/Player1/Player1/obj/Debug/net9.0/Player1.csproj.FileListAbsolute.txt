@@ -1,0 +1,14 @@
+C:\Users\walte\OneDrive\Documentos\Projects\COLTEC\BatalhaNaval\Player1\Player1\bin\Debug\net9.0\Player1.exe
+C:\Users\walte\OneDrive\Documentos\Projects\COLTEC\BatalhaNaval\Player1\Player1\bin\Debug\net9.0\Player1.deps.json
+C:\Users\walte\OneDrive\Documentos\Projects\COLTEC\BatalhaNaval\Player1\Player1\bin\Debug\net9.0\Player1.runtimeconfig.json
+C:\Users\walte\OneDrive\Documentos\Projects\COLTEC\BatalhaNaval\Player1\Player1\bin\Debug\net9.0\Player1.dll
+C:\Users\walte\OneDrive\Documentos\Projects\COLTEC\BatalhaNaval\Player1\Player1\bin\Debug\net9.0\Player1.pdb
+C:\Users\walte\OneDrive\Documentos\Projects\COLTEC\BatalhaNaval\Player1\Player1\obj\Debug\net9.0\Player1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walte\OneDrive\Documentos\Projects\COLTEC\BatalhaNaval\Player1\Player1\obj\Debug\net9.0\Player1.AssemblyInfoInputs.cache
+C:\Users\walte\OneDrive\Documentos\Projects\COLTEC\BatalhaNaval\Player1\Player1\obj\Debug\net9.0\Player1.AssemblyInfo.cs
+C:\Users\walte\OneDrive\Documentos\Projects\COLTEC\BatalhaNaval\Player1\Player1\obj\Debug\net9.0\Player1.csproj.CoreCompileInputs.cache
+C:\Users\walte\OneDrive\Documentos\Projects\COLTEC\BatalhaNaval\Player1\Player1\obj\Debug\net9.0\Player1.dll
+C:\Users\walte\OneDrive\Documentos\Projects\COLTEC\BatalhaNaval\Player1\Player1\obj\Debug\net9.0\refint\Player1.dll
+C:\Users\walte\OneDrive\Documentos\Projects\COLTEC\BatalhaNaval\Player1\Player1\obj\Debug\net9.0\Player1.pdb
+C:\Users\walte\OneDrive\Documentos\Projects\COLTEC\BatalhaNaval\Player1\Player1\obj\Debug\net9.0\Player1.genruntimeconfig.cache
+C:\Users\walte\OneDrive\Documentos\Projects\COLTEC\BatalhaNaval\Player1\Player1\obj\Debug\net9.0\ref\Player1.dll
